@@ -1,0 +1,5 @@
+# git/maven/jenkins/sonar/jfrog
+# !@#$%^&*()
+# cloud (15services)
+Kubernetes / DOcker /Terraform / monitoring etc..
+Automation process
